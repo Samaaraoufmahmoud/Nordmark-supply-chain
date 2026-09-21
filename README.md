@@ -1,4 +1,6 @@
 Nordmark Supply Chain Analytics Dashboard
+
+
 📊 Project Overview
 This project presents a business-driven Power BI analytics solution developed for Nordmark Retail Group, a mid-sized omnichannel retailer operating through physical stores and e-commerce channels across Europe. The dashboard was designed to support supply chain managers, inventory planners, retail operations teams, e-commerce managers, and business analysts in making data-driven decisions.
 
